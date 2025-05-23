@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nomena
+- 👋 Hi, I’m @Nomena or Donner
 - 👀 I’m interested in Informatic, video game and photography
 - 🌱 I’m currently learning informatic
 - 📫 How to reach me : Linkedin : linkedin.com/in/nomena-rasandifera-8361a1299 / Email : nomenarasan@gmail.com
