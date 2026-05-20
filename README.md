@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, I'm Nomena 👋
+# Hi, I'm Nomena alias Donné
 
 **Junior Full Stack Developer · Computer Science Student (Bachelor's Year 3)**  
 HEI Madagascar · Antananarivo
