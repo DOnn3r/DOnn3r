@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, I'm Nomena alias Donné
+# Hi, I'm Nomena 👋
 
 **Junior Full Stack Developer · Computer Science Student (Bachelor's Year 3)**  
 HEI Madagascar · Antananarivo
@@ -65,37 +65,6 @@ Still learning, but curious and consistent.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<!-- GitHub global stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=DOnn3r&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" height="165"/>
-
-<!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DOnn3r&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DOnn3r&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555" height="165"/>
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DOnn3r&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
-
-</div>
-
----
-
 ## Languages
 
 🇲🇬 Malagasy &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇬🇧 English
@@ -106,7 +75,6 @@ Still learning, but curious and consistent.
 
 *Open to internship or work-study opportunities in web development.*
 
-<!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=DOnn3r&color=000000&style=flat-square&label=Profile+Views)
 
 </div>
